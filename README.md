@@ -7,4 +7,4 @@ Real-Time Feedback: After each response, the AI provides feedback on the quality
 Customizable Question Sets: Users can choose the domain or industry for which they want to simulate the interview (e.g., Software Engineering, Marketing, Data Science).
 Speech-to-Text Integration: Allows users to speak their responses, with the AI transcribing and analyzing them.
 Confidence Assessment: Provides a confidence score based on the structure, tone, and content of the responses.
-Question Difficulty Adjustment: The AI adjusts the difficulty of questions based on the user's progress.
+Question Difficulty Adjustment: The AI adjusts the difficulty of questions based on the user's progress
